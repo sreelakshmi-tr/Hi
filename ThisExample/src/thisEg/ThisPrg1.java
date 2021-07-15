@@ -26,7 +26,7 @@ public class ThisPrg1 {
 
 
 	}
-	
+	//method to add
 	void add() {
 		int c=a+b;
 
